@@ -10,8 +10,8 @@ int main(){
     // a=b;
     // cout<<"a=b:"<<a<<endl;
 
-    // a+=b;
-    // cout<<"a+=b:"<<a<<endl;
+    a+=b;
+    cout<<"a+=b:"<<a<<endl; //c=a+b 
 
     // a-=b;
     // cout<<"a-=b:"<<a<<endl;
